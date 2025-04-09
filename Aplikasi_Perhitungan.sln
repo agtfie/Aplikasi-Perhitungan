@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplikasi_Perhitungan", "Aplikasi_Perhitungan\Aplikasi_Perhitungan.csproj", "{7E7B8403-9F34-41A0-AE44-D73A2198358C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E7B8403-9F34-41A0-AE44-D73A2198358C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7B8403-9F34-41A0-AE44-D73A2198358C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7B8403-9F34-41A0-AE44-D73A2198358C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7B8403-9F34-41A0-AE44-D73A2198358C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33670616-6528-46D2-B130-B59696702FC7}
+	EndGlobalSection
+EndGlobal
